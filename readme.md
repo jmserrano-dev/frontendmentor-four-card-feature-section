@@ -1,7 +1,5 @@
 # Front-end Style Guide
 
-![Mobile Design](./design/mobile-design.jpg)
-
 ![Desktop Design](./design/desktop-design.jpg)
 
 
