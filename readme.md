@@ -1,5 +1,10 @@
 # Front-end Style Guide
 
+![Mobile Design](./design/mobile-design.jpg)
+
+![Desktop Design](./design/desktop-design.jpg)
+
+
 ## Layout
 
 The designs were created to the following widths:
